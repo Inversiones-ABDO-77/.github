@@ -18,7 +18,7 @@
 - **Panel administrativo** para la gestión del ISP: clientes, planes y red.
 - **App de clientes** para web y Android.
 - **Gestión de ONUs** y servicios de automatización de la red y reportes.
-- **Bot de atención con IA (RAG)** para WhatsApp, Facebook e Instagram, integrado al CRM.
+- **Bot de atención con IA (RAG)** por WhatsApp, integrado al CRM.
 
 ### Stack
 
