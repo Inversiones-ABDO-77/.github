@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <img src="./assets/banner-light.svg" alt="Inversiones ABDO 77, proveedor de internet en Carabobo, Venezuela" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/abdo77-dark.svg" />
+  <img src="./assets/abdo77-light.svg" alt="Inversiones ABDO 77, proveedor de internet en Carabobo, Venezuela" width="100%" />
 </picture>
 
 <p align="center">
